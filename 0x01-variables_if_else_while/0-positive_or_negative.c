@@ -7,7 +7,6 @@
  * return 0
  */
 int main(void)
-
 {
 
 	
@@ -22,5 +21,4 @@ int main(void)
 	else
 		printf("%i is zero\n", n);
 	return (0);
-
 }
