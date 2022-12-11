@@ -6,8 +6,8 @@
  * description: get a random number and print number
  * return 0
  */
-int main(void){
-
+int main()
+{
 
 	int n;
 
