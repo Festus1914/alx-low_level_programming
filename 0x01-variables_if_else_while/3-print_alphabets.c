@@ -3,7 +3,7 @@
  * main - main block
  * Description: print the alphabet in lower case
  * and in uppercase, follow by a new line
- * Return: 0
+ * Return: o
  */
 int main(void)
 {
