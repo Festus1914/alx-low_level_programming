@@ -2,7 +2,7 @@
 /**
  * main - main block
  * Description: print the alphabet in lower case
- * and in uppercase, follow by a new line
+ * and then in uppercase, follow by a new line
  * Return: o
  */
 int main(void)
@@ -21,7 +21,6 @@ int main(void)
 	{
 		putchar(c);
 		c++;
-	
 	}
 
 	putchar('\n');
