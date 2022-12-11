@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- * main - main block
- * description: get a random number and print number
- * return 0
+ * main - prints if number is positive, zero or negative
+ * Return: Always (Success)
+ * 
  */
-int main()
+int main(void)
 {
 
 	int n;
