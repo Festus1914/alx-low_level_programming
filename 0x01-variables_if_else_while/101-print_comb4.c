@@ -25,6 +25,7 @@ int main(void)
 					if (!(ones == '9' && hundreds == '7' &&
 								tens == '8'))
 					{
+					
 						putchar(',');
 						putchar(' ');
 					}
@@ -32,11 +33,12 @@ int main(void)
 			}
 		}
 	}
-	
 	putchar('\n');
-
 	return (0);
 }
+	
+
+
 		
 						
 							
